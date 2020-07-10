@@ -120,7 +120,7 @@
   line-height: 1.2;
   font-size: 18px;
   font-style: normal;
-  color: royalblue
+  color: royalblue;
 }
 
 .two-columns__main-text {
@@ -398,3 +398,5 @@ ul {
   height: 16px;
   padding-right: 10px;
 }
+
+
