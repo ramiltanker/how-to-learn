@@ -164,6 +164,8 @@
   width: 250px;
   min-height: 100px;
   margin-top: 60px;
+  padding-left: 0;
+  list-style-type: none;
 }
 
 .table__heading {
@@ -333,12 +335,13 @@
   font-size: 18px;
   font-style: normal;
   padding-left: 0;
+  list-style-type: none;
 }
 
 .footer__column-link {
   color: #f2f2f2;
   text-decoration: none;
-  list-style-type: none;
+
 }
 
 .footer__column-link:hover {
@@ -347,6 +350,7 @@
 
 .footer__social_icons {
   padding-bottom: 16px;
+  list-style-type: none;
 }
 
 .footer__social_icon {
