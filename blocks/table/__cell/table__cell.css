@@ -1,0 +1,8 @@
+.table__cell {
+  justify-content: flex-end;
+  width: 250px;
+  min-height: 100px;
+  margin-top: 60px;
+  padding-left: 0;
+  list-style-type: none;
+}
