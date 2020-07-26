@@ -1,0 +1,8 @@
+.khan__block-conteiner {
+  min-height: 300px;
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
