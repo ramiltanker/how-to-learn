@@ -3,4 +3,6 @@
   min-height: 10px;
   margin: auto;
   margin-top: 80px;
+  display: flex;
+  padding-left: 0;
 }
